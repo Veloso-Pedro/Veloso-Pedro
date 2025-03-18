@@ -18,3 +18,7 @@
 <td valign="top" width="50%">
 
 ![Veloso-Pedro's Stats](https://github-readme-stats.vercel.app/api?username=Veloso-Pedro&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Veloso-Pedro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veloso-Pedro&theme=tokyonight&hide_border=true)
+
+![Veloso-Pedro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veloso-Pedro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
