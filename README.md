@@ -13,5 +13,6 @@
 
 ![Veloso-Pedro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veloso-Pedro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-![Uploading giphy.gif…]()
+![Uploading 242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif…]()
+
 
